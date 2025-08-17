@@ -1,3 +1,11 @@
-export const inputLabel = 'Buscar productos, marcas y má';
-export const buttonSearch = 'div.nav-icon-search';
-export const divResult = 'Autos, Motos y OtrosAutos y';
+export const Submit = 'Subsubmit-btn';
+export const Requerido = 'Required';
+export const Agua = 'Water'
+export const Cafe = 'Coffee'
+export const Azul = 'Blue'
+export const Verde = 'Green'
+export const Automatizar = 'automation'
+export const Abajo = 'ArrowDown'
+export const Enter = 'Enter'
+export const Nombre = 'name-input'
+export const Mensaje = 'Message received!'

@@ -10,7 +10,7 @@
     "target": "esnext",
     "module": "commonjs",
     "baseUrl": ".",
-    "types": ["node"]
+    "types": ["node", "playwright/test"]
   },
   "include": ["src/**/*"]
 }
